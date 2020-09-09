@@ -12,5 +12,5 @@ def is_palindrome(num):
     return sum == num
 
 
-print(is_palindrome(121))
-print(is_palindrome(20211202))
+# print(is_palindrome(121))
+# print(is_palindrome(20211202))

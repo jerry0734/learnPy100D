@@ -12,6 +12,6 @@ def is_prime(num):
     return True
 
 
-for i in range(1, 20):
-    prime = is_prime(i)
-    print("{}, {}".format(i, prime))
+# for i in range(1, 20):
+#     prime = is_prime(i)
+#     print("{}, {}".format(i, prime))
