@@ -3,6 +3,7 @@
 copied from website
 """
 
+
 def triangles():
     p = [1]
     while True:
