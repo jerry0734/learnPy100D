@@ -1,5 +1,6 @@
 """
 静态方法 staticmethod
+不需要用类创建对象，可直接通过类.方法()调用
 """
 from math import sqrt
 
